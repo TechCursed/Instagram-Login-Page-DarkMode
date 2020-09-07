@@ -1,0 +1,94 @@
+body{
+  background-color: #81b214;
+}
+.container{
+
+  margin-top: 10px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid;
+  height: 600px;
+  width: 310px;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5)
+}
+
+.headone{
+
+  margin-top: 120px;
+  font-family: 'Satisfy', cursive;
+  text-align: center;
+  color: white;
+
+
+}
+
+input[type=text] {
+
+  height: 30px;
+  width: 280px;
+  background-color: #cdcecd;
+  border-radius: 5px;
+  border: 1px solid;
+  margin-bottom: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-family: Helvetica;
+  
+}
+
+input[type=password] {
+
+  height: 30px;
+  width: 280px;
+  background-color: #cdcecd;
+  border-radius: 5px;
+  border: 1px solid;
+  margin-bottom: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-family: Helvetica ;
+  
+}
+
+input[type=submit] {
+
+  height: 35px;
+  width: 288px;
+  background-color: #3f729b;
+  border-radius: 5px;
+  border: 0.5px solid;
+  margin-bottom: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-family: Helvetica ;
+  color: white;
+  
+}
+
+p{
+  font-family: Helvetica ;
+  color: honeydew;
+  font-size: x-small;
+}
+
+a{
+  font-family: Helvetica ;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer
+{
+  font-family: Helvetica;
+  text-align: center;
+  color: honeydew;
+  font-size: small;
+ 
+}
